@@ -9,5 +9,6 @@ public class test {
         System.out.println("hello master");
         System.out.println("hello hotfix");
         System.out.println("push test");
+        System.out.println("hello hotfix");//远程库修改
     }
 }
